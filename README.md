@@ -106,6 +106,8 @@ The patch applies **on top of English Pokémon Lazarus**, not on Emerald:
 - **pokeemerald-expansion**: [RHH](https://github.com/rh-hideout/pokeemerald-expansion). **pokeemerald**: [pret](https://github.com/pret/pokeemerald).
 - **Spanish translation**: SeCaVa.
 
+☕ If you would like to support my work as a translator, you can do so on [Ko-fi](https://ko-fi.com/secava) or [GitHub Sponsors](https://github.com/sponsors/SeCaVa). It is entirely optional: the translation is and will remain free.
+
 ### Disclaimer
 
 Non-profit fan project, not affiliated with or endorsed by Nintendo, Game Freak, The Pokémon Company, Nemo622 or RHH. This repository does not distribute ROMs, only a patch.
