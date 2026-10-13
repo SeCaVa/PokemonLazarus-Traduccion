@@ -2,7 +2,7 @@
 
 *[English version below](#english-version)*
 
-Traducción no oficial al **castellano de España** de **Pokémon Lazarus**, el *hack* de Pokémon Esmeralda creado por **[Nemo622](https://ko-fi.com/nemo622)** y ambientado en la región de Ilios.
+Traducción no oficial al **castellano de España** de **Pokémon Lazarus**, el *hack* de Pokémon Esmeralda creado por **Nemo622** y ambientado en la región de Ilios.
 
 > Todo el juego (historia, diseño, programación, mapas, gráficos y equilibrio) es obra de **Nemo622** y de quienes han colaborado en Pokémon Lazarus. Este parche **solo traduce los textos y los gráficos con texto** y hace los ajustes de código imprescindibles para que el castellano quepa y se vea bien. Si te gusta el juego, apoya el proyecto original.
 
@@ -54,13 +54,13 @@ Si encuentras un texto sin traducir, cortado o con errores, abre una *issue* en 
 
 ## Créditos
 
-- **Pokémon Lazarus**: [Nemo622](https://ko-fi.com/nemo622) y colaboradores. Todo el mérito del juego es suyo.
+- **Pokémon Lazarus**: Nemo622 y colaboradores. Todo el mérito del juego es suyo.
 - **pokeemerald-expansion**: [RHH (ROM Hacking Hideout)](https://github.com/rh-hideout/pokeemerald-expansion) y su [lista de colaboradores](https://github.com/rh-hideout/pokeemerald-expansion/wiki/Credits).
 - **pokeemerald**: el proyecto de descompilación de [pret](https://github.com/pret/pokeemerald).
 - **Datos de referencia**: [PokeAPI](https://pokeapi.co), [PkParaíso](https://pkparaiso.com) y [WikiDex](https://www.wikidex.net) para los nombres y las descripciones oficiales en castellano; Pokémon Edición Esmeralda en castellano para los mensajes de sistema y los gráficos con texto.
 - **Traducción al castellano**: SeCaVa.
 
-☕ Si quieres apoyar mi trabajo como traductor, puedes hacerlo en [Ko-fi](https://ko-fi.com/secava) o [GitHub Sponsors](https://github.com/sponsors/SeCaVa). Es totalmente voluntario: la traducción es y seguirá siendo gratis. Y si te gusta el juego, apoya también a Nemo622.
+☕ Si quieres apoyar mi trabajo como traductor, puedes hacerlo en [Ko-fi](https://ko-fi.com/secava) o [GitHub Sponsors](https://github.com/sponsors/SeCaVa). Es totalmente voluntario: la traducción es y seguirá siendo gratis. Y si te gusta el juego, apoya también el proyecto original de Nemo622.
 
 ---
 
@@ -73,7 +73,7 @@ Proyecto hecho por fans y sin ánimo de lucro. No está afiliado ni respaldado p
 
 ## English version
 
-Unofficial **Castilian Spanish** (Spain) translation of **Pokémon Lazarus**, the Pokémon Emerald hack set in the Ilios region and created by **[Nemo622](https://ko-fi.com/nemo622)**.
+Unofficial **Castilian Spanish** (Spain) translation of **Pokémon Lazarus**, the Pokémon Emerald hack set in the Ilios region and created by **Nemo622**.
 
 > The whole game (story, design, programming, maps, graphics and balance) is the work of **Nemo622** and the Pokémon Lazarus contributors. This patch **only translates the text and the graphics that contain text**, plus the minimum code changes needed for Spanish to fit and display correctly. If you enjoy the game, please support the original project.
 
@@ -102,7 +102,7 @@ The patch applies **on top of English Pokémon Lazarus**, not on Emerald:
 
 ### Credits
 
-- **Pokémon Lazarus**: [Nemo622](https://ko-fi.com/nemo622) and contributors. All credit for the game goes to them.
+- **Pokémon Lazarus**: Nemo622 and contributors. All credit for the game goes to them.
 - **pokeemerald-expansion**: [RHH](https://github.com/rh-hideout/pokeemerald-expansion). **pokeemerald**: [pret](https://github.com/pret/pokeemerald).
 - **Spanish translation**: SeCaVa.
 
