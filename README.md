@@ -32,6 +32,8 @@ Traducción no oficial al **castellano de España** de **Pokémon Lazarus**, el 
 
 Este repositorio solo contiene el parche **`PokemonLazarus_es.bps`**. Descárgalo desde la sección [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
+**Versión actual: v1.4.** Corrige la Caja Atuendos, las mayúsculas de las estadísticas en combate, detalles gráficos de la Pokédex y el cartel del gimnasio de Jusmail. CRC32 de la ROM traducida: `01AB59F3`.
+
 El parche se aplica **sobre Pokémon Lazarus en inglés**, no sobre Esmeralda:
 
 1. Consigue tu propia ROM de **Pokémon Emerald (USA, Europe)** (CRC32 `1F1C08FB`).
@@ -91,6 +93,8 @@ Unofficial **Castilian Spanish** (Spain) translation of **Pokémon Lazarus**, th
 ### How to play
 
 This repository only contains the **`PokemonLazarus_es.bps`** patch. Download it from [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
+
+**Current version: v1.4.** Fixes the Outfit Box labels, battle stat capitalization, Pokédex graphics and Jusmail's Gym sign. Translated ROM CRC32: `01AB59F3`.
 
 The patch applies **on top of English Pokémon Lazarus**, not on Emerald:
 
