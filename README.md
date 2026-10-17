@@ -32,7 +32,7 @@ Traducción no oficial al **castellano de España** de **Pokémon Lazarus**, el 
 
 Este repositorio solo contiene el parche **`PokemonLazarus_es.bps`**. Descárgalo desde la sección [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Versión actual: v1.5.3.** Corrige el nombre de la megapiedra de Crabominable a «Crabominablita». Incluye los 46 nombres de objetos traducidos en v1.5.2 y todas las correcciones anteriores. CRC32 de la ROM traducida: `038BBE78`.
+**Versión actual: v1.5.4.** Localiza las variantes de las megapiedras de Cyclizar como «Cyclizita E» y «Cyclizita P», por Escarlata y Púrpura. Incluye todas las correcciones anteriores. CRC32 de la ROM traducida: `B0E56298`.
 
 El parche se aplica **sobre Pokémon Lazarus en inglés**, no sobre Esmeralda:
 
@@ -94,7 +94,7 @@ Unofficial **Castilian Spanish** (Spain) translation of **Pokémon Lazarus**, th
 
 This repository only contains the **`PokemonLazarus_es.bps`** patch. Download it from [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Current version: v1.5.3.** Corrects Crabominable’s Mega Stone to its official Spanish name, Crabominablita. Includes the 46 item names translated in v1.5.2 and all previous fixes. Translated ROM CRC32: `038BBE78`.
+**Current version: v1.5.4.** Localizes Cyclizar’s Mega Stone variants as Cyclizita E and Cyclizita P, for Escarlata and Púrpura. Includes all previous fixes. Translated ROM CRC32: `B0E56298`.
 
 The patch applies **on top of English Pokémon Lazarus**, not on Emerald:
 
