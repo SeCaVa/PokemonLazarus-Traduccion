@@ -32,7 +32,7 @@ Traducción no oficial al **castellano de España** de **Pokémon Lazarus**, el 
 
 Este repositorio solo contiene el parche **`PokemonLazarus_es.bps`**. Descárgalo desde la sección [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Versión actual: v1.5.** Corrige los nombres de las cajas del PC, Semilladora y las descripciones de MT/MO, sus iconos, el gráfico de PS y la inscripción Unown de Montes Acrisia. CRC32 de la ROM traducida: `5802506A`.
+**Versión actual: v1.5.1.** Corrige la inscripción Unown al continuar una partida guardada dentro de la sala de Montes Acrisia. Incluye todas las correcciones de v1.5. CRC32 de la ROM traducida: `32DEB877`.
 
 El parche se aplica **sobre Pokémon Lazarus en inglés**, no sobre Esmeralda:
 
@@ -94,7 +94,7 @@ Unofficial **Castilian Spanish** (Spain) translation of **Pokémon Lazarus**, th
 
 This repository only contains the **`PokemonLazarus_es.bps`** patch. Download it from [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Current version: v1.5.** Fixes PC box names, Bullet Seed and TM/HM descriptions, their icons, the HP label and the Unown inscription in Acrisia Mountains. Translated ROM CRC32: `5802506A`.
+**Current version: v1.5.1.** Fixes the Unown inscription when continuing a game saved inside the Acrisia Mountains puzzle room. Includes all v1.5 fixes. Translated ROM CRC32: `32DEB877`.
 
 The patch applies **on top of English Pokémon Lazarus**, not on Emerald:
 
