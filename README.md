@@ -32,7 +32,7 @@ Traducción no oficial al **castellano de España** de **Pokémon Lazarus**, el 
 
 Este repositorio solo contiene el parche **`PokemonLazarus_es.bps`**. Descárgalo desde la sección [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Versión actual: v1.5.1.** Corrige la inscripción Unown al continuar una partida guardada dentro de la sala de Montes Acrisia. Incluye todas las correcciones de v1.5. CRC32 de la ROM traducida: `32DEB877`.
+**Versión actual: v1.5.2.** Traduce 46 nombres de objetos pendientes, incluido Silbato Espathra, objetos de Hisui y megapiedras. Incluye todas las correcciones anteriores. CRC32 de la ROM traducida: `BCA4EBAE`.
 
 El parche se aplica **sobre Pokémon Lazarus en inglés**, no sobre Esmeralda:
 
@@ -94,7 +94,7 @@ Unofficial **Castilian Spanish** (Spain) translation of **Pokémon Lazarus**, th
 
 This repository only contains the **`PokemonLazarus_es.bps`** patch. Download it from [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Current version: v1.5.1.** Fixes the Unown inscription when continuing a game saved inside the Acrisia Mountains puzzle room. Includes all v1.5 fixes. Translated ROM CRC32: `32DEB877`.
+**Current version: v1.5.2.** Translates 46 remaining item names, including Espathra Whistle, Hisui items and Mega Stones. Includes all previous fixes. Translated ROM CRC32: `BCA4EBAE`.
 
 The patch applies **on top of English Pokémon Lazarus**, not on Emerald:
 
