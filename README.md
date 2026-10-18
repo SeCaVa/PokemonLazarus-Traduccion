@@ -32,7 +32,7 @@ Traducción no oficial al **castellano de España** de **Pokémon Lazarus**, el 
 
 Este repositorio solo contiene el parche **`PokemonLazarus_es.bps`**. Descárgalo desde la sección [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Versión actual: v1.6.** Reúne las correcciones de objetos, cajas del PC, inscripción Unown, mensajes de combate e indicadores MT/MO. Compatible con partidas guardadas. CRC32 de la ROM traducida: `38B03767`.
+**Versión actual: v1.7.** Corrige las decoraciones de la tienda y el camarote, traduce sus nombres y centra el letrero «SALIDA». Incluye las correcciones anteriores y es compatible con partidas guardadas. CRC32 de la ROM traducida: `EA48319C`.
 
 El parche se aplica **sobre Pokémon Lazarus en inglés**, no sobre Esmeralda:
 
@@ -94,7 +94,7 @@ Unofficial **Castilian Spanish** (Spain) translation of **Pokémon Lazarus**, th
 
 This repository only contains the **`PokemonLazarus_es.bps`** patch. Download it from [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Current version: v1.6.** Consolidates fixes for item names, PC boxes, the Unown inscription, battle messages and Spanish TM/HM indicators. Compatible with existing saves. Translated ROM CRC32: `38B03767`.
+**Current version: v1.7.** Fixes decorations in the shop and cabin, translates their names and centers the exit sign. Includes all previous fixes and remains compatible with existing saves. Translated ROM CRC32: `EA48319C`.
 
 The patch applies **on top of English Pokémon Lazarus**, not on Emerald:
 
