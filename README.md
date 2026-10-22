@@ -32,7 +32,7 @@ Traducción no oficial al **castellano de España** de **Pokémon Lazarus**, el 
 
 Este repositorio solo contiene el parche **`PokemonLazarus_es.bps`**. Descárgalo desde la sección [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Versión actual: v1.8.** Completa los nombres de habilidades de Lazarus y corrige el texto recortado al recordar movimientos. Incluye las correcciones anteriores y es compatible con partidas guardadas. CRC32 de la ROM traducida: `65C8425C`.
+**Versión actual: v0.9.** Completa los nombres de habilidades de Lazarus y corrige el texto recortado al recordar movimientos. Incluye las correcciones anteriores y es compatible con partidas guardadas. CRC32 de la ROM traducida: `65C8425C`.
 
 El parche se aplica **sobre Pokémon Lazarus en inglés**, no sobre Esmeralda:
 
@@ -94,7 +94,7 @@ Unofficial **Castilian Spanish** (Spain) translation of **Pokémon Lazarus**, th
 
 This repository only contains the **`PokemonLazarus_es.bps`** patch. Download it from [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Current version: v1.8.** Completes Lazarus ability names in Spanish and fixes clipped text when relearning moves. Includes all previous fixes and remains compatible with existing saves. Translated ROM CRC32: `65C8425C`.
+**Current version: v0.9.** Completes Lazarus ability names in Spanish and fixes clipped text when relearning moves. Includes all previous fixes and remains compatible with existing saves. Translated ROM CRC32: `65C8425C`.
 
 The patch applies **on top of English Pokémon Lazarus**, not on Emerald:
 
