@@ -32,7 +32,7 @@ Traducción no oficial al **castellano de España** de **Pokémon Lazarus**, el 
 
 Este repositorio solo contiene el parche **`PokemonLazarus_es.bps`**. Descárgalo desde la sección [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Versión actual: v0.9.** Completa los nombres de habilidades de Lazarus y corrige el texto recortado al recordar movimientos. Incluye las correcciones anteriores y es compatible con partidas guardadas. CRC32 de la ROM traducida: `65C8425C`.
+**Versión actual: v0.10.** Revisión completa de los textos: la flecha de «pasar frase» ya no se corta y los saltos de línea quedan naturales, plurales correctos de los objetos («Pociones», «Aguas Frescas»), textos heredados del Esmeralda con el formato actual («Pokémon», «entrenador», «Super Ball») y últimos mensajes en inglés traducidos. Incluye las correcciones anteriores y es compatible con partidas guardadas. CRC32 de la ROM traducida: `47AE33D2`.
 
 El parche se aplica **sobre Pokémon Lazarus en inglés**, no sobre Esmeralda:
 
@@ -62,7 +62,7 @@ Si encuentras un texto sin traducir, cortado o con errores, abre una *issue* en 
 - **Datos de referencia**: [PokeAPI](https://pokeapi.co), [PkParaíso](https://pkparaiso.com) y [WikiDex](https://www.wikidex.net) para los nombres y las descripciones oficiales en castellano; Pokémon Edición Esmeralda en castellano para los mensajes de sistema y los gráficos con texto.
 - **Traducción al castellano**: SeCaVa.
 
-☕ Si quieres apoyar mi trabajo como traductor, puedes hacerlo en [Ko-fi](https://ko-fi.com/secava) o [GitHub Sponsors](https://github.com/sponsors/SeCaVa). Es totalmente voluntario: la traducción es y seguirá siendo gratis. Y si te gusta el juego, apoya también el proyecto original de Nemo622.
+☕ Si quieres apoyar mi trabajo como traductor, puedes hacerlo en [Ko-fi](https://ko-fi.com/secava), [Patreon](https://www.patreon.com/secava) o [GitHub Sponsors](https://github.com/sponsors/SeCaVa). Es totalmente voluntario: la traducción es y seguirá siendo gratis. Y si te gusta el juego, apoya también el proyecto original de Nemo622.
 
 ---
 
@@ -94,7 +94,7 @@ Unofficial **Castilian Spanish** (Spain) translation of **Pokémon Lazarus**, th
 
 This repository only contains the **`PokemonLazarus_es.bps`** patch. Download it from [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Current version: v0.9.** Completes Lazarus ability names in Spanish and fixes clipped text when relearning moves. Includes all previous fixes and remains compatible with existing saves. Translated ROM CRC32: `65C8425C`.
+**Current version: v0.10.** Full text review: the «next» arrow is no longer clipped and line breaks read naturally, correct Spanish item plurals, Emerald-inherited text updated to the current style, and the last English messages translated. Includes all previous fixes and remains compatible with existing saves. Translated ROM CRC32: `47AE33D2`.
 
 The patch applies **on top of English Pokémon Lazarus**, not on Emerald:
 
@@ -110,7 +110,7 @@ The patch applies **on top of English Pokémon Lazarus**, not on Emerald:
 - **pokeemerald-expansion**: [RHH](https://github.com/rh-hideout/pokeemerald-expansion). **pokeemerald**: [pret](https://github.com/pret/pokeemerald).
 - **Spanish translation**: SeCaVa.
 
-☕ If you would like to support my work as a translator, you can do so on [Ko-fi](https://ko-fi.com/secava) or [GitHub Sponsors](https://github.com/sponsors/SeCaVa). It is entirely optional: the translation is and will remain free.
+☕ If you would like to support my work as a translator, you can do so on [Ko-fi](https://ko-fi.com/secava), [Patreon](https://www.patreon.com/secava) or [GitHub Sponsors](https://github.com/sponsors/SeCaVa). It is entirely optional: the translation is and will remain free.
 
 ### Disclaimer
 
