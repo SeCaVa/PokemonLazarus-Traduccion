@@ -32,7 +32,7 @@ Traducción no oficial al **castellano de España** de **Pokémon Lazarus**, el 
 
 Este repositorio solo contiene el parche **`PokemonLazarus_es.bps`**. Descárgalo desde la sección [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Versión actual: v0.10.** Revisión completa de los textos: la flecha de «pasar frase» ya no se corta y los saltos de línea quedan naturales, plurales correctos de los objetos («Pociones», «Aguas Frescas»), textos heredados del Esmeralda con el formato actual («Pokémon», «entrenador», «Super Ball») y últimos mensajes en inglés traducidos. Incluye las correcciones anteriores y es compatible con partidas guardadas. CRC32 de la ROM traducida: `47AE33D2`.
+**Versión actual: v1.1.** Barrido de detalles: descripciones de objetos, movimientos y habilidades revisadas (incluidos los efectos que cambia Lazarus), últimos textos en inglés traducidos (concursos, Frente Batalla, Licuabayas, Pokédex), motes y Entrenadores Originales oficiales en los intercambios, nombres en mayúsculas heredados del Esmeralda con el formato actual y «Nv» separado del nivel en la ficha. Incluye las correcciones anteriores y es compatible con partidas guardadas. CRC32 de la ROM traducida: `48733257`.
 
 El parche se aplica **sobre Pokémon Lazarus en inglés**, no sobre Esmeralda:
 
@@ -94,7 +94,7 @@ Unofficial **Castilian Spanish** (Spain) translation of **Pokémon Lazarus**, th
 
 This repository only contains the **`PokemonLazarus_es.bps`** patch. Download it from [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Current version: v0.10.** Full text review: the «next» arrow is no longer clipped and line breaks read naturally, correct Spanish item plurals, Emerald-inherited text updated to the current style, and the last English messages translated. Includes all previous fixes and remains compatible with existing saves. Translated ROM CRC32: `47AE33D2`.
+**Current version: v1.1.** Detail sweep: item, move and ability descriptions reviewed (including the effects Lazarus changes), last English texts translated (contests, Battle Frontier, Berry Blender, Pokédex), official Spanish nicknames and Original Trainers for in-game trades, Emerald-inherited capitalised names in the current style, and «Nv» spaced from the level on the summary screen. Includes all previous fixes and remains compatible with existing saves. Translated ROM CRC32: `48733257`.
 
 The patch applies **on top of English Pokémon Lazarus**, not on Emerald:
 
