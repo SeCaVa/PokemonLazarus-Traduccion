@@ -32,13 +32,13 @@ Traducción no oficial al **castellano de España** de **Pokémon Lazarus**, el 
 
 Este repositorio solo contiene el parche **`PokemonLazarus_es.bps`**. Descárgalo desde la sección [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Versión actual: v1.2.** Desde esta versión el parche se aplica directamente sobre Esmeralda (Emerald USA); ya no hace falta el parche inglés de Lazarus. El juego es el mismo que en la v1.1. v1.1: Barrido de detalles: descripciones de objetos, movimientos y habilidades revisadas (incluidos los efectos que cambia Lazarus), últimos textos en inglés traducidos (concursos, Frente Batalla, Licuabayas, Pokédex), motes y Entrenadores Originales oficiales en los intercambios, nombres en mayúsculas heredados del Esmeralda con el formato actual y «Nv» separado del nivel en la ficha. Incluye las correcciones anteriores y es compatible con partidas guardadas. CRC32 de la ROM traducida: `48733257`.
+**Versión actual: v1.3.** Barrido completo de la traducción: **Palabras Fáciles** (Easy Chat) traducidas por completo y ordenadas alfabéticamente en castellano, pantalla final de los créditos con «FIN» como en el Esmeralda en castellano, rótulo «TURNO SIG» de los Concursos, últimos textos en inglés traducidos (Pokécubos, Bayas, muñecos) y retoques de mayúsculas, signos y cortes de línea. Compatible con partidas guardadas. CRC32 de la ROM traducida: `99EAD7CC`.
 
 El parche se aplica **directamente sobre Esmeralda en inglés** (lleva Lazarus v2 incluido):
 
 1. Consigue tu propia ROM de **Pokémon Emerald (USA, Europe)** (CRC32 `1F1C08FB`).
 2. Aplica `PokemonLazarus_es.bps` a esa ROM con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) u otro programa compatible con parches BPS.
-3. Juega la ROM resultante (CRC32 `48733257`) en un emulador preciso (por ejemplo, mGBA) o en una consola.
+3. Juega la ROM resultante (CRC32 `99EAD7CC`) en un emulador preciso (por ejemplo, mGBA) o en una consola.
 
 **Este repositorio no incluye ninguna ROM.**
 
@@ -46,7 +46,7 @@ El parche se aplica **directamente sobre Esmeralda en inglés** (lleva Lazarus v
 
 ## Qué no está traducido
 
-- **Textos sin uso**: menús de depuración, restos de Hoenn que Lazarus no usa, Palabras Fáciles y funciones de cable.
+- **Textos sin uso**: menús de depuración, restos de Hoenn que Lazarus no usa y funciones de cable.
 - Algunos textos sueltos que el juego no carga de una forma que se pueda reubicar con seguridad, y algunos gráficos menores.
 
 Si encuentras un texto sin traducir, cortado o con errores, abre una *issue* en este repositorio.
@@ -93,7 +93,7 @@ Unofficial **Castilian Spanish** (Spain) translation of **Pokémon Lazarus**, th
 
 This repository only contains the **`PokemonLazarus_es.bps`** patch. Download it from [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Current version: v1.2.** From this version the patch applies directly to Emerald (USA); the English Lazarus patch is no longer needed. The game is the same as v1.1. v1.1: Detail sweep: item, move and ability descriptions reviewed (including the effects Lazarus changes), last English texts translated (contests, Battle Frontier, Berry Blender, Pokédex), official Spanish nicknames and Original Trainers for in-game trades, Emerald-inherited capitalised names in the current style, and «Nv» spaced from the level on the summary screen. Includes all previous fixes and remains compatible with existing saves. Translated ROM CRC32: `48733257`.
+**Current version: v1.3.** Full translation sweep: **Easy Chat** words fully translated and sorted alphabetically in Spanish, final credits screen showing «FIN» as in the Spanish Emerald, «TURNO SIG» Contest label, last English texts translated (Pokéblocks, Berries, dolls) plus capitalisation, punctuation and line-break fixes. Compatible with existing saves. Translated ROM CRC32: `99EAD7CC`.
 
 The patch applies **directly to English Emerald** (Lazarus v2 is included):
 
