@@ -49,7 +49,8 @@ El parche se aplica **directamente sobre Esmeralda en inglés** (lleva Lazarus v
 - **Textos sin uso**: menús de depuración, restos de Hoenn que Lazarus no usa y funciones de cable.
 - Algunos textos sueltos que el juego no carga de una forma que se pueda reubicar con seguridad, y algunos gráficos menores.
 
-Si encuentras un texto sin traducir, cortado o con errores, abre una *issue* en este repositorio.
+Si encuentras un texto sin traducir, cortado o con errores, rellena el [formulario de fallos](https://github.com/SeCaVa/PokemonLazarus-Traduccion/issues/new?template=fallo.yml).
+Pide versión, emulador, zona y captura, y así puedo arreglarlo sin preguntarte nada más.
 
 ---
 
