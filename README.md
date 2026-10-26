@@ -36,7 +36,7 @@ Este repositorio solo contiene el parche **`PokemonLazarus_es.bps`**. Descárgal
 
 El parche se aplica **directamente sobre Esmeralda en inglés** (lleva Lazarus v2 incluido):
 
-1. Consigue tu propia ROM de **Pokémon Emerald (USA, Europe)** (CRC32 `1F1C08FB`).
+1. Consigue tu propia ROM de **Pokémon Emerald (USA, Europe)** (CRC32 `1F1C08FB`). Si el CRC32 no coincide (Esmeralda española, otra región o una ROM ya parcheada), el juego no funcionará bien.
 2. Aplica `PokemonLazarus_es.bps` a esa ROM con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) u otro programa compatible con parches BPS.
 3. Juega la ROM resultante (CRC32 `E6255640`) en un emulador preciso (por ejemplo, mGBA) o en una consola.
 
@@ -98,7 +98,7 @@ This repository only contains the **`PokemonLazarus_es.bps`** patch. Download it
 
 The patch applies **directly to English Emerald** (Lazarus v2 is included):
 
-1. Get your own **Pokémon Emerald (USA, Europe)** ROM (CRC32 `1F1C08FB`).
+1. Get your own **Pokémon Emerald (USA, Europe)** ROM (CRC32 `1F1C08FB`). If the CRC32 doesn't match (Spanish Emerald, another region or an already patched ROM), the game won't work properly.
 2. Apply `PokemonLazarus_es.bps` to that ROM with [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) or any BPS-compatible patcher.
 
 **No ROMs are included in this repository.**
