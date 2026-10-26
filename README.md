@@ -32,13 +32,13 @@ Traducción no oficial al **castellano de España** de **Pokémon Lazarus**, el 
 
 Este repositorio solo contiene el parche **`PokemonLazarus_es.bps`**. Descárgalo desde la sección [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Versión actual: v1.5.** Arreglado el buscador de la Pokédex: ya no sale con rayas y vuelve a mostrar el texto de ayuda. Sus botones están en castellano, como en el Esmeralda (Buscar, Cambio, Salir, Nombre, Tipo, Orden, Modo, Vale). Compatible con partidas guardadas. CRC32 de la ROM traducida: `E6255640`.
+**Versión actual: v1.51.** Corregida la frase «El Pokémon …» de las categorías, que pisaba el texto siguiente, y traducidos tres textos que seguían en inglés (aviso de la Baya de Papá, espera de conexión con otro entrenador y una etiqueta de menú). Compatible con partidas guardadas. CRC32 de la ROM traducida: `1B111CDF`.
 
 El parche se aplica **directamente sobre Esmeralda en inglés** (lleva Lazarus v2 incluido):
 
 1. Consigue tu propia ROM de **Pokémon Emerald (USA, Europe)** (CRC32 `1F1C08FB`). Si el CRC32 no coincide (Esmeralda española, otra región o una ROM ya parcheada), el juego no funcionará bien.
 2. Aplica `PokemonLazarus_es.bps` a esa ROM con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) u otro programa compatible con parches BPS.
-3. Juega la ROM resultante (CRC32 `E6255640`) en un emulador preciso (por ejemplo, mGBA) o en una consola.
+3. Juega la ROM resultante (CRC32 `1B111CDF`) en un emulador preciso (por ejemplo, mGBA) o en una consola.
 
 **Este repositorio no incluye ninguna ROM.**
 
@@ -94,7 +94,7 @@ Unofficial **Castilian Spanish** (Spain) translation of **Pokémon Lazarus**, th
 
 This repository only contains the **`PokemonLazarus_es.bps`** patch. Download it from [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Current version: v1.5.** Fixed the Pokédex search screen: no more stripes, and the help text shows again. Its buttons are now in Spanish, as in the official Spanish Emerald. Compatible with existing saves. Translated ROM CRC32: `E6255640`.
+**Current version: v1.51.** Fixed the «El Pokémon …» category phrase, which overwrote the following text, and translated three texts that were still in English. Compatible with existing saves. Translated ROM CRC32: `1B111CDF`.
 
 The patch applies **directly to English Emerald** (Lazarus v2 is included):
 
