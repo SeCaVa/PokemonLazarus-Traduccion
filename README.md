@@ -32,7 +32,7 @@ Traducción no oficial al **castellano de España** de **Pokémon Lazarus**, el 
 
 Este repositorio solo contiene el parche **`PokemonLazarus_es.bps`**. Descárgalo desde la sección [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Versión actual: v1.53.** Arreglados dos cuelgues: uno en algunos combates (tras «¡Es muy eficaz!», al subir una estadística) y otro al terminar de hablar con Nemo. Además, Blasco con su nombre oficial, los grupos de letras del buscador de la Pokédex corregidos y el cartel de habilidad sin «’s». Compatible con partidas guardadas. CRC32 de la ROM traducida: `2F9DB626`.
+**Versión actual: v1.53.** Arreglados dos cuelgues: uno en algunos combates (tras «¡Es muy eficaz!», al subir una estadística) y otro al terminar de hablar con un personaje. Además, Blasco con su nombre oficial, los grupos de letras del buscador de la Pokédex corregidos y el cartel de habilidad sin «’s». Compatible con partidas guardadas. CRC32 de la ROM traducida: `2F9DB626`.
 
 El parche se aplica **directamente sobre Esmeralda en inglés** (lleva Lazarus v2 incluido):
 
@@ -94,7 +94,7 @@ Unofficial **Castilian Spanish** (Spain) translation of **Pokémon Lazarus**, th
 
 This repository only contains the **`PokemonLazarus_es.bps`** patch. Download it from [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Current version: v1.53.** Fixed two freezes: one in some battles (after «¡Es muy eficaz!», when a stat rises) and one at the end of the talk with Nemo. Also Wally's official Spanish name, the Pokédex search letter groups and the ability pop-up without «’s». Compatible with existing saves. Translated ROM CRC32: `2F9DB626`.
+**Current version: v1.53.** Fixed two freezes: one in some battles (after «¡Es muy eficaz!», when a stat rises) and one at the end of a conversation with a character. Also Wally's official Spanish name, the Pokédex search letter groups and the ability pop-up without «’s». Compatible with existing saves. Translated ROM CRC32: `2F9DB626`.
 
 The patch applies **directly to English Emerald** (Lazarus v2 is included):
 
