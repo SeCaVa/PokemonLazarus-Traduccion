@@ -32,13 +32,13 @@ Traducción no oficial al **castellano de España** de **Pokémon Lazarus**, el 
 
 Este repositorio solo contiene el parche **`PokemonLazarus_es.bps`**. Descárgalo desde la sección [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Versión actual: v0.99.** Arreglado un cuelgue al hablar con un personaje con algunas partidas de versiones anteriores. Además, los gráficos de los concursos en castellano, «Cintas» y «¡GENIAL!» traducidos, y las descripciones de las bayas y unos 80 textos heredados de Esmeralda con su texto oficial en castellano. Compatible con partidas guardadas. CRC32 de la ROM traducida: `95BEFC3E`.
+**Versión actual: v0.991.** Arreglados los intercambios con personajes del juego, que leían datos equivocados, y el cartel «SPECIALTY» del zoo ahora dice «ESPECIAL». Compatible con partidas guardadas. CRC32 de la ROM traducida: `277AE984`.
 
 El parche se aplica **directamente sobre Esmeralda en inglés** (lleva Lazarus v2 incluido):
 
 1. Consigue tu propia ROM de **Pokémon Emerald (USA, Europe)** (CRC32 `1F1C08FB`). Si el CRC32 no coincide (Esmeralda española, otra región o una ROM ya parcheada), el juego no funcionará bien.
 2. Aplica `PokemonLazarus_es.bps` a esa ROM con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) u otro programa compatible con parches BPS.
-3. Juega la ROM resultante (CRC32 `95BEFC3E`) en un emulador preciso (por ejemplo, mGBA) o en una consola.
+3. Juega la ROM resultante (CRC32 `277AE984`) en un emulador preciso (por ejemplo, mGBA) o en una consola.
 
 **Este repositorio no incluye ninguna ROM.**
 
@@ -94,7 +94,7 @@ Unofficial **Castilian Spanish** (Spain) translation of **Pokémon Lazarus**, th
 
 This repository only contains the **`PokemonLazarus_es.bps`** patch. Download it from [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Current version: v0.99.** Fixed a freeze when talking to a character with some saves from earlier versions. Also the contest graphics in Spanish, «Cintas» (Ribbons) and «¡GENIAL!» translated, and the berry descriptions plus about 80 texts inherited from Emerald now use the official Spanish Emerald text. Compatible with existing saves. Translated ROM CRC32: `95BEFC3E`.
+**Current version: v0.991.** Fixed the in-game trades with characters, which read wrong data, and the zoo sign «SPECIALTY» now reads «ESPECIAL». Compatible with existing saves. Translated ROM CRC32: `277AE984`.
 
 The patch applies **directly to English Emerald** (Lazarus v2 is included):
 
