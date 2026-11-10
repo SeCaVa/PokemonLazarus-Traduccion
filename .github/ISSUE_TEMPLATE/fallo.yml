@@ -27,14 +27,14 @@ body:
     attributes:
       label: Versión de la traducción
       description: Sale en el nombre del parche o de la release que descargaste.
-      placeholder: "v0.997"
+      placeholder: "v0.998"
     validations:
       required: true
   - type: dropdown
     id: parcheo
     attributes:
       label: ¿Cómo aplicaste el parche?
-      description: "El parche va sobre Pokémon Emerald (USA, Europe) (CRC32 1F1C08FB). La ROM resultante de la v0.997 tiene CRC32 29A27684."
+      description: "El parche va sobre Pokémon Emerald (USA, Europe) (CRC32 1F1C08FB). La ROM resultante de la v0.998 tiene CRC32 129C531D."
       options:
         - "Parcheador web de SeCaVa (secava.github.io/secava-parcheador)"
         - "Rom Patcher JS"
@@ -54,7 +54,7 @@ body:
     attributes:
       label: CRC32 de tu ROM parcheada (si lo sabes)
       description: El parcheador web y Rom Patcher JS lo enseñan. Ayuda a saber si la ROM está bien.
-      placeholder: "29A27684"
+      placeholder: "129C531D"
   - type: dropdown
     id: emulador
     attributes:

@@ -32,13 +32,13 @@ Traducción no oficial al **castellano de España** de **Pokémon Lazarus**, el 
 
 Este repositorio solo contiene el parche **`PokemonLazarus_es.bps`**. Descárgalo desde la sección [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Versión actual: v0.997.** Arreglado un fallo del parche que alteraba unas notas de una canción. Compatible con partidas guardadas. CRC32 de la ROM traducida: `29A27684`.
+**Versión actual: v0.998.** Las frases de los entrenadores del Frente Batalla salen en castellano correcto, las mayúsculas llevan tilde, un nombre de lugar es el mismo en todo el juego y hay menos erratas. Compatible con partidas guardadas. CRC32 de la ROM traducida: `129C531D`.
 
 El parche se aplica **directamente sobre Esmeralda en inglés** (lleva Lazarus v2 incluido):
 
 1. Consigue tu propia ROM de **Pokémon Emerald (USA, Europe)** (CRC32 `1F1C08FB`). Si el CRC32 no coincide (Esmeralda española, otra región o una ROM ya parcheada), el juego no funcionará bien.
 2. Aplica `PokemonLazarus_es.bps` a esa ROM con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) u otro programa compatible con parches BPS.
-3. Juega la ROM resultante (CRC32 `29A27684`) en un emulador preciso (por ejemplo, mGBA) o en una consola.
+3. Juega la ROM resultante (CRC32 `129C531D`) en un emulador preciso (por ejemplo, mGBA) o en una consola.
 
 **Este repositorio no incluye ninguna ROM.**
 
@@ -94,7 +94,7 @@ Unofficial **Castilian Spanish** (Spain) translation of **Pokémon Lazarus**, th
 
 This repository only contains the **`PokemonLazarus_es.bps`** patch. Download it from [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Current version: v0.997.** Fixed a patch bug that changed a few notes of one song. Compatible with existing saves. Translated ROM CRC32: `29A27684`.
+**Current version: v0.998.** Battle Frontier trainers now speak proper Spanish, capital letters keep their accents, one place name is now consistent and some typos are fixed. Compatible with existing saves. Translated ROM CRC32: `129C531D`.
 
 The patch applies **directly to English Emerald** (Lazarus v2 is included):
 
