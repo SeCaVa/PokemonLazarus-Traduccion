@@ -32,13 +32,13 @@ Traducción no oficial al **castellano de España** de **Pokémon Lazarus**, el 
 
 Este repositorio solo contiene el parche **`PokemonLazarus_es.bps`**. Descárgalo desde la sección [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Versión actual: v1.01.** Retoques de la revisión: erratas, interjecciones, textos que seguían en inglés y el nombre de Tatiano. Compatible con partidas guardadas. CRC32 de la ROM traducida: `178CDE2E`.
+**Versión actual: v1.02.** El estuche de MT de la Mochila (TIPO, POTENC., PRECIS., PP, EFECTO y los tipos) ya sale en castellano, y la Señora Concurso ya no muestra un nombre cortado. Compatible con partidas guardadas. CRC32 de la ROM traducida: `F8B4A689`.
 
 El parche se aplica **directamente sobre Esmeralda en inglés** (lleva Lazarus v2 incluido):
 
 1. Consigue tu propia ROM de **Pokémon Emerald (USA, Europe)** (CRC32 `1F1C08FB`). Si el CRC32 no coincide (Esmeralda española, otra región o una ROM ya parcheada), el juego no funcionará bien.
 2. Aplica `PokemonLazarus_es.bps` a esa ROM con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) u otro programa compatible con parches BPS.
-3. Juega la ROM resultante (CRC32 `178CDE2E`) en un emulador preciso (por ejemplo, mGBA) o en una consola.
+3. Juega la ROM resultante (CRC32 `F8B4A689`) en un emulador preciso (por ejemplo, mGBA) o en una consola.
 
 **Este repositorio no incluye ninguna ROM.**
 
@@ -94,7 +94,7 @@ Unofficial **Castilian Spanish** (Spain) translation of **Pokémon Lazarus**, th
 
 This repository only contains the **`PokemonLazarus_es.bps`** patch. Download it from [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Current version: v1.01.** Review fixes: typos, interjections, remaining English texts and Tabitha's Spanish name (Tatiano). Compatible with existing saves. Translated ROM CRC32: `178CDE2E`.
+**Current version: v1.02.** The Bag's TM case (type, power, accuracy, PP and effect labels and the type names) is now in Spanish, and the Quiz Lady no longer shows a cut-off name. Compatible with existing saves. Translated ROM CRC32: `F8B4A689`.
 
 The patch applies **directly to English Emerald** (Lazarus v2 is included):
 
