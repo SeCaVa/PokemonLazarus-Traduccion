@@ -32,13 +32,13 @@ Traducción no oficial al **castellano de España** de **Pokémon Lazarus**, el 
 
 Este repositorio solo contiene el parche **`PokemonLazarus_es.bps`**. Descárgalo desde la sección [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Versión actual: v1.06.** Segunda revisión de calidad del texto: términos de juego con mayúscula y saltos de línea más cuidados. Compatible con partidas guardadas. CRC32 de la ROM traducida: `AAEFD574`.
+**Versión actual: v1.07.** Cuatro cuadros de diálogo reescritos para que no queden con medio renglón suelto. Compatible con partidas guardadas. CRC32 de la ROM traducida: `34DE6126`.
 
 El parche se aplica **directamente sobre Esmeralda en inglés** (lleva Lazarus v2 incluido):
 
 1. Consigue tu propia ROM de **Pokémon Emerald (USA, Europe)** (CRC32 `1F1C08FB`). Si el CRC32 no coincide (Esmeralda española, otra región o una ROM ya parcheada), el juego no funcionará bien.
 2. Aplica `PokemonLazarus_es.bps` a esa ROM con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) u otro programa compatible con parches BPS.
-3. Juega la ROM resultante (CRC32 `AAEFD574`) en un emulador preciso (por ejemplo, mGBA) o en una consola.
+3. Juega la ROM resultante (CRC32 `34DE6126`) en un emulador preciso (por ejemplo, mGBA) o en una consola.
 
 **Este repositorio no incluye ninguna ROM.**
 
@@ -94,7 +94,7 @@ Unofficial **Castilian Spanish** (Spain) translation of **Pokémon Lazarus**, th
 
 This repository only contains the **`PokemonLazarus_es.bps`** patch. Download it from [Releases](https://github.com/SeCaVa/PokemonLazarus-Traduccion/releases/latest).
 
-**Current version: v1.06.** Second text quality review: capitalised game terms and more careful line breaks. Compatible with existing saves. Translated ROM CRC32: `AAEFD574`.
+**Current version: v1.07.** Four dialogue boxes rewritten so none is left with a dangling half line. Compatible with existing saves. Translated ROM CRC32: `34DE6126`.
 
 The patch applies **directly to English Emerald** (Lazarus v2 is included):
 
